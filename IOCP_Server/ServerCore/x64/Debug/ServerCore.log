@@ -1,0 +1,7 @@
+﻿  CorePch.cpp
+C:\Users\Cogsci\Documents\GitHub\IOCP_ServerStudy\IOCP_Server\ServerCore\CorePch.cpp(1,10): fatal  error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\ServerCore.pch': No such file or directory
+  pch.cpp
+C:\Users\Cogsci\Documents\GitHub\IOCP_ServerStudy\IOCP_Server\ServerCore\pch.cpp(3,10): fatal  error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\ServerCore.pch': No such file or directory
+  ServerCore.cpp
+C:\Users\Cogsci\Documents\GitHub\IOCP_ServerStudy\IOCP_Server\ServerCore\ServerCore.cpp(4,10): fatal  error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\ServerCore.pch': No such file or directory
+  코드를 생성하고 있습니다...

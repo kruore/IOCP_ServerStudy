@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Network">
+      <UniqueIdentifier>{4e1cbe9b-9035-4aec-8b60-8b03d5bc477a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{29353dac-66ef-4ffb-9127-94fd0dd9d9d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{2cd3b01c-fe58-49d8-bf14-961bee332f8c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DummayClient.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DummayClient.cpp" />
+  </ItemGroup>
+</Project>
